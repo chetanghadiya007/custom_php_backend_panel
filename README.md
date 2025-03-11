@@ -69,6 +69,7 @@ Contributions are welcome! Feel free to fork the repository, create a new branch
 
 ## 📧 Support
 If you encounter any issues, please create an issue on the repository or contact me directly.
+
 Skype: chetanghadiya007
 Mail: crghadiya@gmail.com
 
