@@ -1,0 +1,11 @@
+RewriteEngine On
+
+RewriteRule ^product_detail/(.*)$ product_detail.php?productName=$1 [QSA]
+RewriteRule ^products/(.*)$ products.php?categoryName=$1 [QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+
+
+
