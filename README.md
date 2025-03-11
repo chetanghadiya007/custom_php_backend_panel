@@ -8,7 +8,7 @@ This is a custom PHP backend panel designed for managing data efficiently using 
 - User Authentication (Login/Logout)
 - CRUD Operations for Database Management
 - Responsive and Clean UI
-- Secure Database Connection (using prepared statements)
+- Secure Database Connection
 - Easy Configuration for Deployment
 
 ---
